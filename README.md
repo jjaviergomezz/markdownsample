@@ -11,3 +11,6 @@ Paragraph text here
 puts "this is code"
 if this then that
 ```
+
+## Office Hours
+You can attend our free office hours (ask me anything) with a [quick registration at this page](http://training.github.com/web/free-classes/).
